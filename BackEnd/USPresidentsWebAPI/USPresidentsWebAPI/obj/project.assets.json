@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\Projects\\BackEnd\\USPresidentsWebAPI\\USPresidentsWebAPI\\USPresidentsWebAPI.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\USPresidentsWebAPI\\BackEnd\\USPresidentsWebAPI\\USPresidentsWebAPI\\USPresidentsWebAPI.csproj",
       "projectName": "USPresidentsWebAPI",
-      "projectPath": "\\\\Mac\\Home\\Documents\\Projects\\BackEnd\\USPresidentsWebAPI\\USPresidentsWebAPI\\USPresidentsWebAPI.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\USPresidentsWebAPI\\BackEnd\\USPresidentsWebAPI\\USPresidentsWebAPI\\USPresidentsWebAPI.csproj",
       "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\Projects\\BackEnd\\USPresidentsWebAPI\\USPresidentsWebAPI\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\USPresidentsWebAPI\\BackEnd\\USPresidentsWebAPI\\USPresidentsWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
