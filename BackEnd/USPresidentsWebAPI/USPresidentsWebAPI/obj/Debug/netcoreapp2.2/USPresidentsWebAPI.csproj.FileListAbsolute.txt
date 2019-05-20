@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\bin\Debug\netcoreapp2.2\USPresidentsWebAPI.deps.json
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\bin\Debug\netcoreapp2.2\USPresidentsWebAPI.runtimeconfig.json
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\bin\Debug\netcoreapp2.2\USPresidentsWebAPI.runtimeconfig.dev.json
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\bin\Debug\netcoreapp2.2\USPresidentsWebAPI.dll
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\bin\Debug\netcoreapp2.2\USPresidentsWebAPI.pdb
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.csprojAssemblyReference.cache
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.AssemblyInfo.cs
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.dll
+\\Mac\Home\Documents\USPresidentsWebAPI\BackEnd\USPresidentsWebAPI\USPresidentsWebAPI\obj\Debug\netcoreapp2.2\USPresidentsWebAPI.pdb
