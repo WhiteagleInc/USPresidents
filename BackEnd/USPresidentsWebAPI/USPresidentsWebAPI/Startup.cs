@@ -40,6 +40,8 @@ namespace USPresidentsWebAPI
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(builder => builder.WithOrigins("http://localhost:3000", "https://uspresidentsapp.azurewebsites.net"));
+
             app.UseMvc();
         }
     }
